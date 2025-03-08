@@ -4,11 +4,6 @@
 
 # <div align="center">&lt;WELCOME TO MY PROFILE/&gt;</div>
 
-<div align="center">
-<img src="https://img.shields.io/github/followers/SUVAJIT-KARMAKAR?style=social" style="padding:5px">
-<img src="https://img.shields.io/github/stars/SUVAJIT-KARMAKAR?style=social" style="padding:5px">
-</div>
-
 <div align="center">HELLO WORLD! WELCOME TO MY GITHUB PROFILE. <br>I'M <u><b>SUVAJIT KARMAKAR</b></u>. JUST SCROLL THROUGH TO FIND OUT MY LATEST PROJECTS AND CONTRIBUTIONS</div>
 
 ## ABOUT ME
@@ -70,17 +65,6 @@ HERE ARE SOME OF THE SIGNIFICANT PROJECTS, THAT I AM CURRENTLY WORKING ON IN COD
 
 ## <div align="center"> &lt;THANK YOU SO MUCH/&gt; </div>
 
-<div align="center">
-THANK YOU FOR VISITING MY GITHUB PROFILE !
-</div>
-
-<hr>
-<br>
-
-
-<img src="https://raw.githubusercontent.com/SUVAJIT-KARMAKAR/SUVAJIT-KARMAKAR/output/snake.svg" alt="Snake animation" />
-
-###
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
