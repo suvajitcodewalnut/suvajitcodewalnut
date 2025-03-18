@@ -4,10 +4,29 @@
 
 # <div align="center">&lt;WELCOME TO MY PROFILE/&gt;</div>
 
-<div align="center">HELLO WORLD! WELCOME TO MY GITHUB PROFILE. <br>I'M <u><b>SUVAJIT KARMAKAR</b></u>. JUST SCROLL THROUGH TO FIND OUT MY LATEST PROJECTS AND CONTRIBUTIONS</div>
+<div align="center">HELLO WORLD! WELCOME TO MY GITHUB PROFILE. <br>I'M <u><b>SUVAJIT KARMAKAR</b></u></div>
 
 ## ABOUT ME
-`Software Engineer Intern`
+
+`DEDICATED PROFESSIONAL WITH A PASSION FOR INNOVATION AND PROBLEM-SOLVING.`
+<br/>
+Experienced in Full-Stack Development ~ Woked closely with ReactJs, NodeJs, ExpressJs, Go and much more.
+<br/>
+<br/>
+KEEN AND SEEKING OPPORTUNITIES TO CONTRIBUTE AND GROW IN A DYNAMIC ENVIRONMENT.
+
+- Bsc(H) IN COMPUTER SCIENCE
+- MASTERS IN COMPUTER APPLICATION
+- 5+ YEARS OF ACADEMIC EXPERIENCE IN FULL STACK DEVELOPMENT AND COUNTING
+
+## INTERNSHIP
+Software Engineer Intern `@CodeWalnut`
+
+## VISIT MY PORTFOLIO WEBSITE
+
+<div align="center">
+<a href="https://suvajit-karmakar.vercel.app/"><img src="./logo/suvajitkarmakar_portfolio.png"></a>
+</div>
 
 ## MY TECHNOLOGY STACK
 
@@ -30,41 +49,28 @@
   </tr>
 </table>
 
-## PROJECTS
-
-HERE ARE SOME OF THE SIGNIFICANT PROJECTS, THAT I AM CURRENTLY WORKING ON IN CODEWALNUT.<br>
-
-<!-- PROJECT ONE -->
-
-### [CISCOLIVE !](https://github.com/suvajitcodewalnut/ciscolive)
-Project for CiscoLive Event
-
-![CISCOLIVE](./projects/__ciscolive.png)
-
-> REST OF THE REPOSITORIES ARE YOURS TO EXPLORE !
-
-## <div  align="center"> &lt;LET'S WORK TOGETHER/&gt; </div>
-
-<br>
-<div align="center">
-
-  <a href="mailto:suvajit@codewalnut.com"> 
+## <div  align="left"> LET'S WORK TOGETHER </div>
+<table align="center" border="1">
+<tr>
+  <td align="center">  
+    <a href="mailto:ikarmakarsuvajit@gmail.com"> 
     <img width="40px" src="./icons/GMAIL.png"> 
+    </a>
+  </td>
+  <td align="center">
+    <a href="https://www.linkedin.com/in/suvajit-karmakar-677112220/">
+    <img width="40px" src="./icons/LINKEDIN.png">
+    </a>
+  </td>
+  <td align="center">
+  <a  href="">
+  <img width="40px" src="./icons/FIVERR.png">
   </a>
-   &nbsp; &nbsp;
-  <a href="https://www.linkedin.com/in/suvajit-karmakar-677112220/"> 
-    <img width="40px" src="./icons/LINKEDIN.png"> 
-  </a> 
-  &nbsp; &nbsp;
-  <a  href=""> 
-    <img width="40px" src="./logo/__logo.png"> 
-  </a>
+  </td>
+</tr>
+</table>
 
-</div>
-<br>
-
-## <div align="center"> &lt;THANK YOU SO MUCH/&gt; </div>
-
+<div align="center">&lt;THANK YOU SO MUCH/&gt;</div>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
