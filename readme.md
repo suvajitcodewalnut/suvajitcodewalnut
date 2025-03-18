@@ -53,19 +53,14 @@ Software Engineer Intern `@CodeWalnut`
 <table align="center" border="1">
 <tr>
   <td align="center">  
-    <a href="mailto:ikarmakarsuvajit@gmail.com"> 
-    <img width="40px" src="./icons/GMAIL.png"> 
+    <a href="https://www.codewalnut.com/"> 
+    <img width="40px" src="./logo/__logo.png"> 
     </a>
   </td>
   <td align="center">
-    <a href="https://www.linkedin.com/in/suvajit-karmakar-677112220/">
+    <a href="https://www.linkedin.com/company/codewalnut/">
     <img width="40px" src="./icons/LINKEDIN.png">
     </a>
-  </td>
-  <td align="center">
-  <a  href="">
-  <img width="40px" src="./icons/FIVERR.png">
-  </a>
   </td>
 </tr>
 </table>
